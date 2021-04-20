@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Christian Kane &#8211; OpenHub</title>
+	<atom:link href="http://repo-run.tk/cast/christian-kane/feed/" rel="self" type="application/rss+xml" />
+	<link>http://repo-run.tk</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 19 Apr 2021 19:54:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Almost Paradise</title>
+		<link>http://repo-run.tk/tvshows/almost-paradise/</link>
+					<comments>http://repo-run.tk/tvshows/almost-paradise/#respond</comments>
+		
+		<dc:creator><![CDATA[cobra11]]></dc:creator>
+		<pubDate>Mon, 19 Apr 2021 19:54:15 +0000</pubDate>
+				<guid isPermaLink="false">http://repo-run.tk/tvshows/almost-paradise/</guid>
+
+					<description><![CDATA[A former DEA agent forced into early retirement runs a gift shop in in the Philippines. Despite his best efforts to begin a tranquil new life, he’s pulled back into a world of dangerous people and deadly situations, either through his friends in the local police department or running into people from his old life. [&#8230;]]]></description>
+										<content:encoded><![CDATA[A former DEA agent forced into early retirement runs a gift shop in in the Philippines. Despite his best efforts to begin a tranquil new life, he’s pulled back into a world of dangerous people and deadly situations, either through his friends in the local police department or running into people from his old life. And the problem is: he likes it.]]></content:encoded>
+					
+					<wfw:commentRss>http://repo-run.tk/tvshows/almost-paradise/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
