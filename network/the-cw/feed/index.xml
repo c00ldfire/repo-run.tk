@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The CW &#8211; OpenHub</title>
+	<atom:link href="http://repo-run.tk/network/the-cw/feed/" rel="self" type="application/rss+xml" />
+	<link>http://repo-run.tk</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 19 Apr 2021 19:58:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>The Originals</title>
+		<link>http://repo-run.tk/tvshows/the-originals/</link>
+					<comments>http://repo-run.tk/tvshows/the-originals/#respond</comments>
+		
+		<dc:creator><![CDATA[cobra11]]></dc:creator>
+		<pubDate>Mon, 19 Apr 2021 19:58:06 +0000</pubDate>
+				<guid isPermaLink="false">http://repo-run.tk/tvshows/the-originals/</guid>
+
+					<description><![CDATA[A spin-off from The Vampire Diaries and set in New Orleans, The Originals centers on the Mikaelson siblings, otherwise known as the world&#8217;s original vampires: Klaus, Elijah, and Rebekah. Now Klaus must take down his protégé, Marcel, who is now in charge of New Orleans, in order to re-take his city, as he originally built [&#8230;]]]></description>
+										<content:encoded><![CDATA[A spin-off from The Vampire Diaries and set in New Orleans, The Originals centers on the Mikaelson siblings, otherwise known as the world&#8217;s original vampires: Klaus, Elijah, and Rebekah. Now Klaus must take down his protégé, Marcel, who is now in charge of New Orleans, in order to re-take his city, as he originally built New Orleans. Klaus departed from the city after being chased down by his father Mikael, while it was being constructed and Marcel took charge. As Klaus has returned after many years, his ego has provoked him to become the king of the city. &#8220;Every King needs an heir&#8221; says Klaus, accepting the unborn child. The child is a first to be born to a hybrid and a werewolf.]]></content:encoded>
+					
+					<wfw:commentRss>http://repo-run.tk/tvshows/the-originals/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
