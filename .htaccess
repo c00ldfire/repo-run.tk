@@ -1,0 +1,28 @@
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /openhub/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /openhub/index.php [L]
+</IfModule>
+
+php_value max_input_vars 15000
+
+php_value max_execution_time 300
+
+php_value post_max_size 150M
+
+php_value upload_max_filesize 150M
+
+php_value suhosin.post.max_vars 15000
+
+php_value suhosin.request.max_vars 15000
+
+# END WordPress
